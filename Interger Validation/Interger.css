@@ -1,0 +1,37 @@
+body {
+    background-image: url(back.jpg);
+}
+
+h1 {
+    color: white;
+    font-family: lato;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.class-red {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.class-white {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.class-blue {
+    color: white;
+}
+
+#red, #white, #blue {
+    width: 100px;
+    height: 30px;
+    margin-inline: 5px;
+}
+
+.btn {
+    height: 25px;
+    margin-left: 4px;
+    color: white;
+    background-color: grey;
+    font-weight: bold;
+}
