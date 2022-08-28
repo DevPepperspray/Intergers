@@ -2,7 +2,7 @@ function submit()
 {
 
     var red = document.getElementById("red").value;
-    var white = document.getElementById("whiter").value;
+    var white = document.getElementById("white").value;
     var blue = document.getElementById("blue").value;
 
     let largest;
